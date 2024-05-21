@@ -30,8 +30,30 @@ Generative AI: **Hugging Face,OpenAI,GeminiPro,Prompt Engineering,Vector Databas
 🌟 What I Do:
 
 **As a Generative AI Scientist specializing in Large Language Models (LLM), I focus on developing and optimizing advanced AI systems that understand and generate human language. Here’s a snapshot of what I do:**
+
+**Research and Innovation**
+
+- Algorithm Development: **I create and refine algorithms to enhance the performance and capabilities of LLMs.**
+- 
+- Cutting-Edge Techniques: **I stay updated with the latest AI advancements and contribute to academic research.**
+- 
+**Model Training and Optimization**
+  
+Data Preparation: **I curate and preprocess large datasets for high-quality model training.**
+
+Performance Tuning: **I optimize model parameters to achieve the best possible outcomes.**
+
+**Practical Applications**
+
+Custom Solutions: **I develop tailored AI applications, such as chatbots and content generators.**
+Integration: **I ensure seamless deployment and integration of models into real-world systems.**
+
+**My mission is to advance AI technology to create intelligent, reliable, and beneficial language models.**
+
 💼 Professional Experience:
+
 Applied Roots: **Data Science Trainee**
+
 Xane.AI: **Data Analyst**
 
 <h3 align="left">Connect with me:</h3>
