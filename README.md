@@ -1,4 +1,4 @@
-[![MasterHead](C:\Users\share\Downloads\1675681418944.gif)]
+[![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)]
 <h1 align="center">Hi 👋, I'm Syed Shareef Shahzer</h1>
 <h3 align="center">A Data nerd and a Life long learner. Aspiring Generative AI Scientist and Developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
@@ -18,9 +18,13 @@
 🚀 Skills & Expertise:
 
 Programming Languages : **Python,C,C++**
-Batabases : **SQL,MongoDB,Apache Cassandra,Vector Database**
+
+Databases : **SQL,MongoDB,Apache Cassandra,Vector Database**
+
 Tools : **Machine Learning,Deep Learning,NLP,Generative AI**
+
 Cloud & MLOps: **Git and Github,Containerization - Docker & DockerHub,AWS Services,CI/CD github actions,Experiment Tracking & Data Management using MLFlow,AWS Sagemaker,Machine Learning System Design,Apache Spark**
+
 Generative AI: **Hugging Face,OpenAI,GeminiPro,Prompt Engineering,Vector Databases,Langchain,Chainlit,RAG(Retrieval-Augmented Generation) System**
 
 🌟 What I Do:
