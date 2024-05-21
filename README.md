@@ -35,7 +35,7 @@
 
 - **Algorithm Development**: I create and refine algorithms to enhance the performance and capabilities of LLMs.
 - **Cutting-Edge Techniques**: I stay updated with the latest AI advancements and contribute to academic research.
-- 
+  
 **Model Training and Optimization**
   
 - **Data Preparation**: I curate and preprocess large datasets for high-quality model training.
