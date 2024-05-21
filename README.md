@@ -49,11 +49,11 @@
 
 **My mission is to advance AI technology to create intelligent, reliable, and beneficial language models.**
 
-💼 Professional Experience:
+💼 **Professional Experience**:
 
-Applied Roots: **Data Science Trainee**
+**Applied Roots**: Data Science Trainee (Jan 2021 - Nov 2022 · 1 yr 11 mos)
 
-Xane.AI: **Data Analyst**
+Xane.AI: **Data Analyst** (Jul 2020 - Dec 2020 · 6 mos)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
