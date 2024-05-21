@@ -15,38 +15,36 @@
 
 - ⚡ Fun fact **I like Maths**
   
-🚀 Skills & Expertise:
+🚀 **Skills & Expertise:**
 
 Programming Languages : **Python,C,C++**
 
-Databases : **SQL,MongoDB,Apache Cassandra,Vector Database**
+**Databases** : SQL,MongoDB,Apache Cassandra,Vector Database
 
-Tools : **Machine Learning,Deep Learning,NLP,Generative AI**
+**Tech Expertise** : Machine Learning,Deep Learning,NLP,Generative AI.
 
-Cloud & MLOps: **Git and Github,Containerization - Docker & DockerHub,AWS Services,CI/CD github actions,Experiment Tracking & Data Management using MLFlow,AWS Sagemaker,Machine Learning System Design,Apache Spark**
+**Cloud & MLOps**: Git and Github,Containerization - Docker & DockerHub,AWS Services,CI/CD github actions,Experiment Tracking & Data Management using MLFlow,AWS Sagemaker,Machine Learning System Design,Apache Spark
 
-Generative AI: **Hugging Face,OpenAI,GeminiPro,Prompt Engineering,Vector Databases,Langchain,Chainlit,RAG(Retrieval-Augmented Generation) System**
+**Generative AI**: Hugging Face,OpenAI,GeminiPro,Prompt Engineering,Vector Databases,Langchain,Chainlit,RAG(Retrieval-Augmented Generation) System
 
-🌟 What I Do:
+🌟 **What I Do**:
 
 **As a Generative AI Scientist specializing in Large Language Models (LLM), I focus on developing and optimizing advanced AI systems that understand and generate human language. Here’s a snapshot of what I do:**
 
 **Research and Innovation**
 
-- Algorithm Development: **I create and refine algorithms to enhance the performance and capabilities of LLMs.**
-- 
-- Cutting-Edge Techniques: **I stay updated with the latest AI advancements and contribute to academic research.**
-- 
-**Model Training and Optimization**
+- **Algorithm Development**: I create and refine algorithms to enhance the performance and capabilities of LLMs.
+- **Cutting-Edge Techniques**: I stay updated with the latest AI advancements and contribute to academic research.**
+**Model Training and Optimization
   
-Data Preparation: **I curate and preprocess large datasets for high-quality model training.**
+**Data Preparation**: I curate and preprocess large datasets for high-quality model training.
 
-Performance Tuning: **I optimize model parameters to achieve the best possible outcomes.**
+**Performance Tuning**: I optimize model parameters to achieve the best possible outcomes.
 
 **Practical Applications**
 
-Custom Solutions: **I develop tailored AI applications, such as chatbots and content generators.**
-Integration: **I ensure seamless deployment and integration of models into real-world systems.**
+**Custom Solutions**: I develop tailored AI applications, such as chatbots and content generators.
+**Integration**: I ensure seamless deployment and integration of models into real-world systems.
 
 **My mission is to advance AI technology to create intelligent, reliable, and beneficial language models.**
 
