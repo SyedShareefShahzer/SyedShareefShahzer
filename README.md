@@ -9,11 +9,26 @@
 
 - 🌱 I’m currently learning **Generative AI,Large Language Models(LLMs)**
 
-- 💬 Ask me about **Machine Learning,Deep Learning,LLM,MLOps**
+- 💬 Ask me about **AI,Machine Learning,Deep Learning,LLM,MLOps,LLMOps**
 
 - 📫 How to reach me **shahzershareef@gmail.com**
 
 - ⚡ Fun fact **I like Maths**
+  
+🚀 Skills & Expertise:
+
+Programming Languages : **Python,C,C++**
+Batabases : **SQL,MongoDB,Apache Cassandra,Vector Database**
+Tools : **Machine Learning,Deep Learning,NLP,Generative AI**
+Cloud & MLOps: **Git and Github,Containerization - Docker & DockerHub,AWS Services,CI/CD github actions,Experiment Tracking & Data Management using MLFlow,AWS Sagemaker,Machine Learning System Design,Apache Spark**
+Generative AI: **Hugging Face,OpenAI,GeminiPro,Prompt Engineering,Vector Databases,Langchain,Chainlit,RAG(Retrieval-Augmented Generation) System**
+
+🌟 What I Do:
+
+**As a Generative AI Scientist specializing in Large Language Models (LLM), I focus on developing and optimizing advanced AI systems that understand and generate human language. Here’s a snapshot of what I do:**
+💼 Professional Experience:
+Applied Roots: **Data Science Trainee**
+Xane.AI: **Data Analyst**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
