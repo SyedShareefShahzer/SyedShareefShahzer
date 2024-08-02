@@ -50,6 +50,8 @@
 
 💼 **Professional Experience**:
 
+**Ameya Innovex**: AI/ML Engineer (Aug 2024 - Present)
+
 **Applied Roots**: Data Science Trainee (Jan 2021 - Nov 2022 · 1 yr 11 mos)
 
 **Xane.AI**: Data Analyst (Jul 2020 - Dec 2020 · 6 mos)
