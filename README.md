@@ -28,7 +28,7 @@
 
 🌟 **What I Do**:
 
-- **As a Generative AI Scientist specializing in Large Language Models (LLM), I focus on developing and optimizing advanced AI systems that understand and generate human language. Here’s a snapshot of what I do:**
+- **As an AI Engineer , I focus on developing and optimizing advanced AI systems. Here’s a snapshot of what I do:**
 
 **Research and Innovation**
 
