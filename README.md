@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)]
 <h1 align="center">Hi 👋, I'm Syed Shareef Shahzer</h1>
-<h3 align="center">A Data nerd, A Tinkerer and a Life long learner. Currently, I am working as an AI/ML Engineer at Ameya Innovex.</h3>
+<h3 align="center">A Data nerd, A Tinkerer and a Life long learner. Currently, I am working as a Data Scientist at Sukhalaya.</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedshareefshahzer&label=Profile%20views&color=0e75b6&style=flat" alt="syedshareefshahzer" /> </p>
@@ -26,31 +26,15 @@
 
 - **Generative AI**: Hugging Face,OpenAI,GeminiPro,Prompt Engineering,Vector Databases,Langchain,Chainlit,RAG(Retrieval-Augmented Generation) System
 
-🌟 **What I Do**:
 
-- **As an AI Engineer , I focus on developing and optimizing advanced AI systems. Here’s a snapshot of what I do:**
 
-**Research and Innovation**
 
-- **Algorithm Development**: I create and refine algorithms to enhance the performance and capabilities of LLMs.
-- **Cutting-Edge Techniques**: I stay updated with the latest AI advancements and contribute to academic research.
-  
-**Model Training and Optimization**
-  
-- **Data Preparation**: I curate and preprocess large datasets for high-quality model training.
-
-- **Performance Tuning**: I optimize model parameters to achieve the best possible outcomes.
-
-**Practical Applications**
-
-- **Custom Solutions**: I develop tailored AI applications, such as chatbots and content generators.
-- **Integration**: I ensure seamless deployment and integration of models into real-world systems.
-
-**My mission is to advance AI technology to create intelligent, reliable, and beneficial language models.**
 
 💼 **Professional Experience**:
 
-**Ameya Innovex**: AI/ML Engineer (Aug 2024 - Present)
+**Sukhalaya**: Data Scientist (Oct 2024 - Present)
+
+**Ameya Innovex**: AI/ML Engineer (May 2024 - Oct 2024)
 
 **Applied Roots**: Data Science Trainee (Jan 2021 - Nov 2022 · 1 yr 11 mos)
 
