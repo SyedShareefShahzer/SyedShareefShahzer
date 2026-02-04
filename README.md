@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)]
 <h1 align="center">Hi 👋, I'm Syed Shareef Shahzer</h1>
-<h3 align="center">A Data nerd, A Tinkerer and a Life long learner. Currently, I am working as a Data Scientist at Sukhalaya.</h3>
+<h3 align="center">A Data nerd, A Tinkerer and a Life long learner. Currently, I am working as an AI Engineer at KUDU.</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedshareefshahzer&label=Profile%20views&color=0e75b6&style=flat" alt="syedshareefshahzer" /> </p>
@@ -32,7 +32,9 @@
 
 💼 **Professional Experience**:
 
-**Sukhalaya**: Data Scientist (Oct 2024 - Present)
+**KUDU**: AI Engineer ( Feb 2026 - Present )
+
+**Sukhalaya**: Data Scientist (Oct 2024 - Dec 2025)
 
 **Ameya Innovex**: AI/ML Engineer (May 2024 - Oct 2024)
 
